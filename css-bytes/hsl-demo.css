@@ -1,0 +1,30 @@
+h1{  
+    color:hsl(120, 100%, 30%);  
+    text-align:center;  
+}  
+
+h2{  
+    color:hsl(217, 33%, 51%);  
+    text-align:center;  
+}  
+
+h3{  
+    color:hsl(120, 13%, 95%);  
+    text-align:center;  
+}  
+
+h4{  
+    color:hsl(120, 84%, 33%);  
+    text-align:center;  
+}  
+
+div {
+    border: 0.5rem outset pink;
+    outline: 0.5rem solid khaki;
+    box-shadow: 0 0 0 2rem skyblue;
+    border-radius: 12px;
+    font: bold 1rem sans-serif;
+    margin: 2rem;
+    padding: 1rem;
+    outline-offset: 0.5rem;
+  }
